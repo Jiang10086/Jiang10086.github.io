@@ -1,86 +1,58 @@
-# 衬线字体
-## 现代衬线（Modern Serif）
-### Didot
-法国
-<cite>Vogue</cite>、《时尚芭莎》、<cite>ELLE</cite>刊头标示字体
-阿玛尼、巴宝莉
-#### [Linotype Didot](https://www.myfonts.com/collections/didot-font-linotype)
-开源
-#### [Theano Font](https://www.fontspace.com/theano-font-f13396)
-#### [HTF DIDOT](https://www.typography.com/fonts/didot/overview)
-### [Bodoni Moda](https://indestructibletype.com/Bodoni.html)
-意大利
-### [Trajan Pro 3](https://fonts.adobe.com/fonts/trajan)
-以图拉真纪功柱字体为原型
-用例：
-- 泰坦尼克号
-- 美丽心灵
-- 死神来了
-- 林中小屋
-### Baskerville
-纸书最常用的西文字体之一，最早在铅字时代设计
-### Bookerly
-Kindle定制内置字体
-### Literata
-Google Play阅读器定制的正文字体
-### Bembo
-### Centaur
+## 背景
+好早之前蓝牙耳机就掉了，所以最近都是在用Type-C的有线耳机，但前几天也找不到了，不得不再次买蓝牙耳机了。
+蓝牙耳机买过太多也丢过太多，所以这次想着买一个带定位的蓝牙耳机。似乎除了AirPods之外的蓝牙耳机的定位逻辑都是需要手机开启定位和对应的耳机应用，然后就能看到断连前的位置。上一个蓝牙耳机是入耳式的[红米Buds 5](https://www.mi.com/redmi-buds-5)，就算只是戴上不开机都会安静好多，被动降噪和主动降噪的效果都很赞，只是主动降噪开最高的话戴一会耳压就很高受不了，就算不开戴久了耳朵也会痒。之前从没有用过半入耳式的蓝牙耳机，据说会比入耳式的更舒适，想到之前戴红米耳机的痛苦经历，这次决定买半入耳式的。现在我用电脑、平板和手机，也经历过为了连B设备要先断开A设备、连A又要断开B的循环，双设备连接可谓是但用难回，所以这也是刚需（不过要是有三设备或四设备同时连接就更好了）。我感觉自己听力已经下降了，为了保护自己耳朵，所以还是想买有主动降噪的。虽然半入耳式的肯定是不如入耳式和耳罩型的，但至少聊胜于无，后两者的缺点也非常明显。于是我列出了六点需求：
+- 支持耳机定位
+- 半入耳式
+- 支持双设备连接
+- 支持主动降噪
+- 200元以内
+- 大品牌
 
-# 介于有无衬线之间
-### ITC Serif Gothic
-[My Fonts](https://www.myfonts.com/collections/serif-gothic-font-itc)[方正](https://www.foundertype.com/index.php/FontInfo/index/id/2574
-用例：
-- 星球大战
-- 星际迷航
-- 万圣节
+在淘宝和京东筛选后，剩下这三款：[倍思BS1 NC](https://item.jd.com/100261841144.html)（官网竟然没有这个型号）、[QCY AilyBuds Pro](https://item.jd.com/100101652146.html)和[QCY AilyBuds E20](https://www.qcy.com.cn/lang-cn/productview/1903.html)，写稿日（25年9月27日）时京东价（对比了京东、淘宝、拼多多和抖音几个平台的价格，都是京东最便宜）分别是145、133、132。根据[酷安@AMebius](https://www.coolapk.com/feed/67180493?s=MTk4Nzc4MWM0Mjk3NGFnNjhkNzhiNzZ6a1560)（他评测了好多便宜蓝牙耳机，包括这三款，感兴趣的朋友可以去看看）的测评，QCY AilyBuds E20的降噪比QCY AilyBuds Pro差太多，找客服发来的对比（见下）也印证了这点（不过「最大降噪深度」其实并不适合用来比较降噪水平），于是决定买来倍思BS1 NC和QCY AliyBuds Pro，顺便女朋友有一个[SONY WH-1000XM4](https://www.sony.co.uk/electronics/headband-headphones/wh-1000xm4)（以下简称XM4），也一起对比。在对比前，已经把三个耳机全部升级到最新固件（XM4：2.9.0，BS1 NC：1.0.35，AilyBuds Pro：4.0.8）。
 
-### Irvin Display
+|             产品型号             |                 QCY AilyBuds Pro                 |                QCY AilyBuds E20                |
+| :--------------------------: | :----------------------------------------------: | :--------------------------------------------: |
+|            发声单元尺寸            |                      13 mm                       |                     13 mm                      |
+|           扬声器振膜材质            |                    羊毛纸生物膜动圈喇叭                    |                     生物振膜喇叭                     |
+|            扬声器灵敏度            |              102±3 dB @ 1 kHz-10 dB              |             102±3 dB @ 1 kHz-10 dB             |
+|            频率响应范围            |                  20 Hz ~ 20 kHz                  |                 20 Hz ~ 20 kHz                 |
+|            麦克风灵敏度            |                -7±4 dB @ 1 kHz1Pa                |               -9±4 dB @ 1 kHz1Pa               |
+|            主动降噪挡位            |                     半入耳自适应降噪                     |                半入耳平衡主动降噪+自适应抗风噪                |
+|             通话降噪             |                    双耳6麦AI通话降噪                    |                 双耳6麦AI通话降噪+抗风噪                 |
+|          **最大降噪深度**          |                    **-28 dB**                    |                   **-25 dB**                   |
+|             游戏体验             |                      0.08 s                      |                    0.068 s                     |
+|            蓝牙解码器             |                    AAC / SBC                     |                   AAC / SBC                    |
+|             蓝牙版本             |                      物奇V5.3                      |                     杰理V5.4                     |
+|            蓝牙有效距离            |                    10 m（无障碍）                     |                   10 m（无障碍）                    |
+|             电池容量             |             耳机：27 mAh<br>充点仓：350 mAh             |            耳机：27 mAh<br>充点仓：380 mAh            |
+| 音乐播放时间<br>（AAC编码，默认设置，50%音量） | 降噪开：单次约4 h，搭配充电仓约23 h<br>降噪关：单次约5.5 h，搭配充电仓约30 h | 降噪开：单次约3 h，搭配充电仓约18 h<br>降噪关：单次约4 h，搭配充电仓约24 h |
+|         通话时间（50%音量）          |                       约3 h                       |             降噪开：1.5 h<br>降噪关：2.5 h             |
+|             待机时长             |                    约40 h（降噪关）                    |                   约40 h（降噪关）                   |
+|           防水等级（耳机）           |                       IPX5                       |                      IPX4                      |
+![[Screenshot_2025-09-27-15-38-35-602_com.android.settings.jpg]]
 
-# 无衬线字体
-### Futura Now
-[方正](https://www.foundertype.com/index.php/FontInfo/index/id/5392)[Monotype](https://www.monotype.com/fonts/futura-now)
-#### 用例
-- 卡尔文·克莱恩
-- LV
-- 《2001：太空漫游》
-- 阿波罗11号，不锈钢纪念碑题词
-### Helvetica Now
-[Monotype](https://www.monotype.com/fonts/helvetica-now)[方正](https://www.foundertype.com/index.php/FontInfo/index/id/4694)
-American Apparel
-
-### Neuland
-用例：
-- 侏罗纪公园
-- 勇敢者的游戏
-### Verdana
-为低质屏显设计，并非美学杰作而是技术上的妥协
-
-### Noto Sans
-### Johnston 100
-
-### Gill Sans
-英伦风格
-用例：
-- 英国铁路
-- 企鹅出版社
-- BBC
-
-### Gotham
-极具美国气质
-用例：
-- 奥巴马竞选词Change
-- 世贸中心一号大楼自由塔奠基石铭文
-
-## 高速字体
-### [FHWA Series fonts](https://en.wikipedia.org/wiki/Highway_Gothic)
-美国以前高速字体
-### Clearview
-美国改进公路字体
-### DIN 1451
-德国标牌用字
-### Transport
-英国、沙拉阿拉伯、希腊、爱尔兰路牌用字
-### Frutiger
-戴高乐机场
-### ASTRA-Frutiger
-瑞士道路路标
+## 应用对比
+只有SONY的Sound Connect无需登录就可以使用全部功能；QCY强制登录（和「小米耳机」一样），唯一值得庆幸的是可以使用邮箱注册，不一定要绑定手机号；倍思不登录不能AI对话和设备查找。
+QCY和倍思都会常驻通知栏，SONY和QCY有桌面小组件，显示耳机电量等信息。可以QCY和倍思都无法显示充电盒的电量，作为对比，「小米耳机」可以。
+![[Screenshot_2025-09-27-16-24-23-595_com.android.settings.jpg]]![[Screenshot_2025-09-27-16-27-43-163_com.miui.home.jpg]]
+只有SONY具有深色模式，而且还会采用系统主题色（图中的蓝紫色）。
+![[Screenshot_2025-09-27-15-46-57-321_com.sony.songpal.mdr.jpg]]
+倍思是初印象最差的，首页有轮播横幅广告，还有“商城”tab，不过很好笑的是点击“商城”会跳转到微信，可能是由于是Google Play上下载的，显示无法分享到微信。没有开屏广告。
+![[Screenshot_2025-09-27-16-04-31-623_com.baseus.intelligent.jpg]]![[Screenshot_2025-09-27-16-04-43-227_com.tencent.mm.jpg]]
+QCY比较好笑，明明买的是紫色款，但应用中只能选择黑白两色，界面比较简洁清晰，但有开屏广告。特色功能是“声道平衡”，之前我的[EarPods](https://www.apple.com/shop/product/MWU53AM/A/earpods-35mm-headphone-plug)进水了，导致两边声音不一样大，虽然iOS内置声道平衡，但是调节了之后会影响包括自带扬声器在内的所有音频设备，如果耳机自带这个功能就很方便了。另一个特色功能是“睡眠模式”，可以屏蔽所有触控，不过我几乎不会戴着耳机睡觉。
+![[Screenshot_2025_09_27_15_47_58_542_com_qcymall_googleearphonesetup.jpg]]![[Screenshot_2025_09_27_16_17_43_292_com_qcymall_googleearphonesetup.jpg]]
+## 外观与做工
+QCY紫色更加漂亮，充电盒外壳更加光滑，手感更好。倍思（下图右）侧边有挂绳口，不过我估计用不上了。
+![[MVIMG_20250928_165258~2.jpg]]
+## 多设备连接体验
+倍思的多设备连接方案挺好的，在连接了A和B之后，还可以断开这俩的蓝牙来连接C，同理也可以连接D，而且这四台设备都可以分别自动回连，只是只能同时连接两台设备，但这两台设备是任意的，可以是A+B，还可以是B+C、C+D和A+D，非常灵活。相比之下QCY只能连接两台设备，如果想连接第三台设备得重置耳机，这点和红米Buds 5是一样的。
+QCY双设备连接时，切换设备会有两到三秒的延迟，这中间耳机是没声音的。而且耳机会经常说“Connected”“Pairing”等，感觉很low，相比之下倍思是提示音效，更好，双设备切换也没有延迟。
+## 定位
+两个软件不能导航到耳机断连处，但倍思地图放大的倍数比QCY多，略胜一筹。不过最离谱的是我从A地到B地后，QCY的定位依旧在A地，根本不可用。
+## 主动降噪
+倍思的比QCY的强，在街头实测底噪更低，当然都被XM4吊打。而且QCY要等一段时间才能开启，反复切换降噪开关还会弹出提示。
+## 其他
+音质我花了很久时间对比，但我本人基本是木耳，大部分都听不出区别，就算听出区别了也不知道哪个好……作罢，我是真听不出大部分设备的音质区别。不过按照[网友说法](https://vcb-s.com/archives/4738)，我反而因此能更好地欣赏音乐本身（？）通话降噪没体验出区别。另外倍思支持蓝牙6.0，QCY仅支持5.3（不过我也想不出蓝牙版本高有啥实际好处）；倍思有Hi-Res Wireless认证，支持LDAC（这两者QCY AilyBuds Pro+支持）。
+![[Pasted image 20250927172944.png]]
+## 结论
+综上所述，对于我而言，倍思几乎全面优于QCY，先留着这个用吧。
